@@ -22,4 +22,4 @@ A collection of my Python notebooks and data science projects from Kaggle.
 *   **Language:** Python
 *   **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 
-🔗 **Kaggle Profile:** [://kaggle.com](https://www.://kaggle.com)
+🔗 **Kaggle Profile:** [://kaggle.com](https://www.kaggle.com/taranum100)
